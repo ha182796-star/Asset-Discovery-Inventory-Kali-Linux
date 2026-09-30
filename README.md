@@ -81,4 +81,3 @@ A total of 14 key assets were identified across 6 categories during this audit:
 * **Program**: GLAXIT Internship Program — Advanced Cyber Security
 * **Supervisor**: Sir Saifullah
 * **Submission Date**: August 9, 2026
-*
